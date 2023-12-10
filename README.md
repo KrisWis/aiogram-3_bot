@@ -1,4 +1,4 @@
-# aiogram-3_bot
+# Бот на 3 aiogram
 #### Telegram-Bot для практики в 3 версии фреймворка aiogram.
 
 # Запуск бота
